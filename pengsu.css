@@ -1,0 +1,12 @@
+h1{
+  color: #fff;
+  background-color: orange;
+  text-align: center;
+  width: 600px;
+  margin: 20px auto;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+}
